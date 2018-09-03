@@ -9,3 +9,4 @@ plum
 kiwi
 date
 durian
+strawberry
