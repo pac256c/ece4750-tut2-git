@@ -12,3 +12,5 @@ durian
 strawberry
 melon
 blueberry
+grape
+strawberry
