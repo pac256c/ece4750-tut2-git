@@ -10,3 +10,4 @@ kiwi
 date
 durian
 strawberry
+melon
